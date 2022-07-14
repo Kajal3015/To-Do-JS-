@@ -12,10 +12,10 @@ body{
 }
 
 input{
-    height: 3rem;
-    width: 27rem;
-    margin: 2rem;
-    padding: 0.75rem;
+    height: 5vh;
+    width: 27vw;
+    margin: 2vw;
+    padding: 0.75vw;
     font-size: 1.25rem;
     outline: none;
     border-radius: 30px;
